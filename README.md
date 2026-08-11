@@ -4,6 +4,10 @@
 
 ---
 
+https://www.youtube.com/watch?v=ebRO4B7bNBE
+https://www.youtube.com/watch?v=_GSqwtdkvcs
+
+
 ## 📌 Sobre o Projeto
 
 O **SmartHand AI** é uma proposta de projeto acadêmico voltada ao desenvolvimento de um **protótipo experimental de prótese de mão inteligente, acessível e adaptável**, utilizando sensores, sistemas embarcados, programação e técnicas de Inteligência Artificial.
