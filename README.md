@@ -8,7 +8,6 @@
 
 ### https://www.youtube.com/watch?v=ebRO4B7bNBE
 ### https://www.youtube.com/watch?v=_GSqwtdkvcs
-### https://www.youtube.com/watch?v=ebRO4B7bNBE
 
 
 ## Prototipo da impressão 3d
